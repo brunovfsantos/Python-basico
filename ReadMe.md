@@ -1,6 +1,6 @@
 # Estudo de Python - 2025
 
-##🧙‍♂️ Aulas minitrada por Teo Calvo
+##🧙‍♂️ Aula minitrada por Teo Calvo
 
-Neste projeto o intuito é passar todos os comendos essenciais no dia a dia.
+Neste projeto o intuito é ensinar todos os comandos essenciais no dia a dia.<br>
 com esses conhecimentos podemos dar continuidade a vários outros cursos.
